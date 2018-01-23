@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{A3F047B4-6126-C3AC-EC85-C82CC3E319A7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GazeSystem.cs" Line="52" Column="65" />
+      <File FileName="Assets/Scripts/GazeAbleObject.cs" Line="20" Column="37" />
+      <File FileName="Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" Line="21" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VR_220Demo PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

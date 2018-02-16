@@ -29,7 +29,6 @@ public class GazeAbleButton : GazeAbleObject {
         if (parentPanel != null)
         {
             parentPanel.setActiveButton(this);
-
         }
         else
         {

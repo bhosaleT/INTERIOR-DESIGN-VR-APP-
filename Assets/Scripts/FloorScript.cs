@@ -16,5 +16,13 @@ public class FloorScript : GazeAbleObject {
 
             Player.instance.transform.position = destinationLocation;
         }
+        else if (Player.instance.activeMode == InputMode.FURNITURE)
+        {
+            //ccreate the piece of furniture
+            GameObject placedFurniture = GameObject.Instantiate(Player.instance.activeFurniturePrefab) as GameObject;
+
+            // set the position of the furniture
+            placedFurniture.transform.position = hitInfo.point;
+        }
     }
 }
